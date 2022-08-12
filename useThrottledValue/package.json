@@ -1,27 +1,28 @@
 {
-  "name": "enzyme-todo-example",
+  "name": "use-throttled-value",
   "author": {
     "name": "Dennis Persson",
     "email": "dennis@perssondennis.com",
     "url": "https://www.perssondennis.com/"
   },
   "version": "1.0.0",
-  "description": "a simple todo list example in enzyme",
+  "description": "",
+  "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "enzyme": "^3.11.0",
-    "enzyme-adapter-react-16": "^1.15.6",
-    "jest-enzyme": "^7.1.2",
-    "react": "^16.4.0",
-    "react-dom": "^16.4.0",
-    "react-router-dom": "^4.2.2",
-    "react-scripts": "^5.0.0",
-    "react-test-renderer": "^16.4.0"
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
+    "react-scripts": "4.0.0"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8",
+    "typescript": "4.1.3"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
 }

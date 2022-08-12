@@ -1,5 +1,10 @@
 {
   "name": "react",
+  "author": {
+    "name": "Dennis Persson",
+    "email": "dennis@perssondennis.com",
+    "url": "https://www.perssondennis.com/"
+  },
   "version": "1.0.0",
   "description": "usePrevious with logs",
   "keywords": ["react", "starter"],

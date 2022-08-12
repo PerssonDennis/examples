@@ -1,5 +1,10 @@
 {
   "name": "react-testing-library-todo-example",
+  "author": {
+    "name": "Dennis Persson",
+    "email": "dennis@perssondennis.com",
+    "url": "https://www.perssondennis.com/"
+  },
   "version": "1.0.0",
   "description": "a simple todo list example in react testing library",
   "main": "src/index.js",
