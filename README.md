@@ -15,6 +15,10 @@ The code in this repository mainly comes from articles on that website, most oft
 
 If you are more interested in jokes and memes than learning to code, the Instagram account [perssondennis.com_webdev](https://www.instagram.com/perssondennis.com_webdev/) is exactly what you need!
 
+## Get In Contact
+
+You can find contact information at [the website](https://www.perssondennis.com/contact).
+
 ## Donations
 
 perssondennis.com and the Instagram account is completely founded on donations. If you want to donate a cup of coffee you can do that at [BuyMeACoffee](https://www.buymeacoffee.com/dennispersson), it doesn't take more time than paying with Google Pay or a credit card.
