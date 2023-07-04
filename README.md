@@ -9,11 +9,11 @@ The code in this repository mainly comes from articles on that website, most oft
 - [useThrottledValue, useThrottledFunction](https://www.perssondennis.com/articles/react-hooks-use-throttled-value-and-use-throttled-function)
 - [useRunOnce](https://www.perssondennis.com/articles/react-hook-use-run-once)
 - [enzyme, react-testing-library](https://www.perssondennis.com/articles/unit-testing-volvo)
-- [usePrevious, usePrevious-with-logss](https://www.perssondennis.com/articles/react-useEffect-render-flow)
+- [usePrevious, usePrevious-with-logs](https://www.perssondennis.com/articles/react-useEffect-render-flow)
 
 ## Instagram
 
-If you are more interested in jokes and memes than learning to code, the Instagram account [perssondennis.com_webdev](https://www.instagram.com/perssondennis.com_webdev/) is exactly what you need!
+If you are more interested in jokes and memes than learning to code, the Instagram account [perssondennis.com_memes](https://www.instagram.com/perssondennis.com_memes/) is exactly what you need!
 
 ## Get In Contact
 
