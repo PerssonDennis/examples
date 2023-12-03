@@ -1,4 +1,4 @@
-# useGlobalState
+# useElementDimensions and useStaticElementDimensions
 
 Explanation for this hook is available on [perssondennis.com](https://www.perssondennis.com/articles/react-hook-use-element-dimensions) and [dev.to](https://dev.to/perssondennis/react-hook-useelementdimensions-42cl).
 
